@@ -1,16 +1,20 @@
-# application
+# CC - Currency Converter App
 
-A new Flutter project.
+The **CC** app is a simple currency converter that allows users to convert foreign currencies to the Uzbek sum (UZS). It uses the **NBU API** to fetch real-time exchange rates from the National Bank of Uzbekistan, ensuring accuracy and up-to-date conversion data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Convert foreign currencies (e.g., USD, EUR, GBP) to Uzbek sum (UZS).
+- Real-time exchange rates fetched from the NBU API.
+- User-friendly interface with smooth navigation.
+- Lightweight and fast performance for quick conversions.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+*Add relevant screenshots here to showcase the app interface.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/crazyfeyn/CC.git
